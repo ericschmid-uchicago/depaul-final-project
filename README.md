@@ -154,7 +154,7 @@ in performance.
 ![Training and Test Accuracy for LSTM Model over 10
 Epochs](Figure_3.png){#fig:enter-label width="1\\linewidth"}
 
-![Confirmation of Training and Test Accuracy for LSTM Model over 100
+![Confirmation of Training and Test Accuracy for MLP Model over 100
 Epochs after initial TimeSplitSeries test
 run](Figure_2.png){#fig:enter-label width="1\\linewidth"}
 
